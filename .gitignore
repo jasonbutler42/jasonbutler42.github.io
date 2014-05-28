@@ -2,7 +2,9 @@ _site/*
 _theme_packages/*
 
 Thumbs.db
-.sublime-project
+jasonbutler42.github.io.sublime-project
+jasonbutler42.github.io.sublime-workspace
+
 .DS_Store
 
 !.gitkeep
